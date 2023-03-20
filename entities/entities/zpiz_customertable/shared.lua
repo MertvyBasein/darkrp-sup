@@ -1,0 +1,11 @@
+ENT.Type = "anim"
+ENT.Base = "base_anim"
+ENT.RenderGroup = RENDERGROUP_OPAQUE
+ENT.Spawnable = true
+ENT.AdminSpawnable = false
+ENT.PrintName = "Customer Table"
+ENT.Category = "FoodMode"
+ENT.Model = "models/props_c17/FurnitureTable001a.mdl"
+ENT.AutomaticFrameAdvance = true
+ENT.DisableDuplicator = false
+ENT.RemoveOnJobChange = true
